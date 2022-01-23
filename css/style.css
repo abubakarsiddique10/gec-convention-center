@@ -4,3 +4,13 @@
 .slider-content {
     /* transform: translate(-50%, -50%);*/
 } 
+
+section {
+    margin-bottom: 100px;
+}
+#our-price .fa-check {
+   color:  #5243C2;
+   background: #EDECF9;
+   border-radius: 50px;
+   padding: 5px;
+}
