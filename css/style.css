@@ -11,12 +11,15 @@ section {
 #our-price {
     position: relative;
 }
+#our-price p {
+    font-size: 18px;
+}
 #our-price .price-title {
     margin-bottom: 130px;
 }
 #our-price .toast {
     position: absolute;
-    top: 80px;
+    top: 85px;
     right: 40px;
 }
 #our-price .card-3 {
@@ -46,3 +49,8 @@ section {
     background-color: #3F87F5;
     color: white;
 }
+@media only screen and (max-width: 768px) {
+    #Frequently .row {
+        flex-direction: column-reverse;
+    }
+  }
