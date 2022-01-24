@@ -8,6 +8,31 @@
 section {
     margin-bottom: 100px;
 }
+#our-price {
+    position: relative;
+    
+}
+#our-price .price-title {
+    margin-bottom: 130px;
+}
+#our-price .toast {
+    position: absolute;
+    top: 0;
+    right: 30px;
+}
+#our-price .card-3 {
+    position: relative;
+    border-radius: 25px;
+    box-shadow: 0px 42px 34px 0px #3F87F540;
+    color: #ffffff;
+    top: -50px;
+}
+#our-price .badges {
+    position: absolute;
+    top: -20px;
+    right: 15px;
+    background: #FF4E4E;
+}
 #our-price .fa-check {
    color:  #5243C2;
    background: #EDECF9;
